@@ -10,7 +10,7 @@ function App() {
 
   useEffect(() => {
     if (!bgm) {
-      const audio = new Audio("/bgm/bgm.mp3");
+      const audio = new Audio("bgm/bgm.mp3");
       audio.loop = true;
       audio.volume = 0.5;
       setBgm(audio);
