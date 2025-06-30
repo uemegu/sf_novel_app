@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.63a80b12.css",
-    "main.js": "/static/js/main.b2ed9033.js",
-    "static/js/453.7e8a5811.chunk.js": "/static/js/453.7e8a5811.chunk.js",
-    "index.html": "/index.html",
-    "main.63a80b12.css.map": "/static/css/main.63a80b12.css.map",
-    "main.b2ed9033.js.map": "/static/js/main.b2ed9033.js.map",
-    "453.7e8a5811.chunk.js.map": "/static/js/453.7e8a5811.chunk.js.map"
+    "main.css": "/sf_novel_app/static/css/main.ab9918ff.css",
+    "main.js": "/sf_novel_app/static/js/main.49a2b0ab.js",
+    "static/js/453.7e8a5811.chunk.js": "/sf_novel_app/static/js/453.7e8a5811.chunk.js",
+    "index.html": "/sf_novel_app/index.html",
+    "main.ab9918ff.css.map": "/sf_novel_app/static/css/main.ab9918ff.css.map",
+    "main.49a2b0ab.js.map": "/sf_novel_app/static/js/main.49a2b0ab.js.map",
+    "453.7e8a5811.chunk.js.map": "/sf_novel_app/static/js/453.7e8a5811.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.63a80b12.css",
-    "static/js/main.b2ed9033.js"
+    "static/css/main.ab9918ff.css",
+    "static/js/main.49a2b0ab.js"
   ]
 }

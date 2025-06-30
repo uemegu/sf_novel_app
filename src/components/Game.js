@@ -16,7 +16,7 @@ const Game = ({ scene }) => {
 
     // sceneとscene.audioが存在する場合にのみ、新しい音声を再生する
     if (scene && scene.audio) {
-      const audio = new Audio(scene.audio);
+      const audio = new Audio(`${process.env.PUBLIC_URL}${scene.audio}`);
       audio.play().catch((e) => console.error("Audio playback error:", e));
       currentAudio.current = audio;
     }

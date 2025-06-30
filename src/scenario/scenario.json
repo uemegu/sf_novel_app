@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -12,11 +12,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "私の名前は星奈 結愛（ほしな ゆあ）。都内の某大学に通う、どこにでもいる普通の女子大生。",
-    "audio": "audio/1_Kimiji.wav"
+    "audio": "/audio/1_Kimiji.wav"
   },
   {
     "id": 2,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -27,11 +27,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "特に将来の夢があるわけでもないし、勉強に没頭するタイプでもない。友達と適度に遊んで、バイトもそこそこに学生生活を楽しみながら生きている。",
-    "audio": "audio/2_Kimiji.wav"
+    "audio": "/audio/2_Kimiji.wav"
   },
   {
     "id": 3,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -42,11 +42,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "そのバイトがちょっとだけ特殊で「二宮ラボ」という研究所で助手のバイト。これはそんなバイトで経験した不思議な出来事を記録したものです…。",
-    "audio": "audio/3_Kimiji.wav"
+    "audio": "/audio/3_Kimiji.wav"
   },
   {
     "id": 4,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "その研究所は都内の外れに謎に大きな敷地内にある。中で働いているのは私と“二宮”という若い男性の二人だけ。",
@@ -54,7 +54,7 @@
   },
   {
     "id": 5,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -65,11 +65,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "二宮はどうやらかなりの資産家らしい。いわゆる“ボンボン”だ。大学卒業後、就職せずにこのラボを作り、研究に明け暮れている。本人曰く「世界を震撼させる超スケールの研究」をしているらしい。",
-    "audio": "audio/5_Kimiji.wav"
+    "audio": "/audio/5_Kimiji.wav"
   },
   {
     "id": 6,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -80,11 +80,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "私はただ「時給がいいから」という理由だけでバイトに応募し、いまは“助手”という名の雑用係をしている。",
-    "audio": "audio/6_Kimiji.wav"
+    "audio": "/audio/6_Kimiji.wav"
   },
   {
     "id": 7,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -101,11 +101,11 @@
     ],
     "speaker": "二宮",
     "text": "星奈くん。今日は来客が来る予定になっている。",
-    "audio": "audio/7_Teppei.wav"
+    "audio": "/audio/7_Teppei.wav"
   },
   {
     "id": 8,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -122,11 +122,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "へえ、そうなんですか。珍しいですね。何をするんですか？",
-    "audio": "audio/8_Kimiji.wav"
+    "audio": "/audio/8_Kimiji.wav"
   },
   {
     "id": 9,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -143,11 +143,11 @@
     ],
     "speaker": "二宮",
     "text": "降霊だ。",
-    "audio": "audio/9_Teppei.wav"
+    "audio": "/audio/9_Teppei.wav"
   },
   {
     "id": 10,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -164,11 +164,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……こうれい？",
-    "audio": "audio/10_Kimiji.wav"
+    "audio": "/audio/10_Kimiji.wav"
   },
   {
     "id": 11,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -185,11 +185,11 @@
     ],
     "speaker": "二宮",
     "text": "うむ。つまり、イタコ、霊媒師を呼んだ。",
-    "audio": "audio/11_Teppei.wav"
+    "audio": "/audio/11_Teppei.wav"
   },
   {
     "id": 12,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -206,11 +206,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "はぁ。",
-    "audio": "audio/12_Kimiji.wav"
+    "audio": "/audio/12_Kimiji.wav"
   },
   {
     "id": 13,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -227,11 +227,11 @@
     ],
     "speaker": "二宮",
     "text": "魂とは何だろうな。",
-    "audio": "audio/13_Teppei.wav"
+    "audio": "/audio/13_Teppei.wav"
   },
   {
     "id": 14,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -248,11 +248,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "はぁ。",
-    "audio": "audio/14_Kimiji.wav"
+    "audio": "/audio/14_Kimiji.wav"
   },
   {
     "id": 15,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -269,11 +269,11 @@
     ],
     "speaker": "二宮",
     "text": "昔、アメリカの医師が“人間の魂の重さは 21 グラムだ”って研究発表をしたのは知っているか。ダンカン・マクドゥーガルという人物が、人間が死ぬ際の体重の変化を記録することで魂の重量を測ろうとした。実際には実験方法やサンプル数に問題があって、科学的には信憑性が低い話だがな。",
-    "audio": "audio/15_Teppei.wav"
+    "audio": "/audio/15_Teppei.wav"
   },
   {
     "id": 16,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -290,11 +290,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "たった 21 グラムなんですか。豚肉だったら 40 円くらい……ですよね。",
-    "audio": "audio/16_Kimiji.wav"
+    "audio": "/audio/16_Kimiji.wav"
   },
   {
     "id": 17,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -311,11 +311,11 @@
     ],
     "speaker": "二宮",
     "text": "……ふむ。今度もっと良いお肉をあげよう。",
-    "audio": "audio/17_Teppei.wav"
+    "audio": "/audio/17_Teppei.wav"
   },
   {
     "id": 18,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -332,11 +332,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "ラッキー。ボンボンがくれるお肉って、いくらぐらいするんだろう。",
-    "audio": "audio/18_Kimiji.wav"
+    "audio": "/audio/18_Kimiji.wav"
   },
   {
     "id": 19,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -353,11 +353,11 @@
     ],
     "speaker": "二宮",
     "text": "……本音と建前が逆になってるな。相変わらず君の思考回路は興味深い。",
-    "audio": "audio/19_Teppei.wav"
+    "audio": "/audio/19_Teppei.wav"
   },
   {
     "id": 20,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -374,11 +374,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "やだ、セクハラ♡",
-    "audio": "audio/20_Kimiji.wav"
+    "audio": "/audio/20_Kimiji.wav"
   },
   {
     "id": 21,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -395,11 +395,11 @@
     ],
     "speaker": "二宮",
     "text": "……チューリングテスト、いや知らないか。ChatGPT なら分かるな？",
-    "audio": "audio/21_Teppei.wav"
+    "audio": "/audio/21_Teppei.wav"
   },
   {
     "id": 22,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -416,11 +416,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "はい、知ってますよ。大学のレポートで大活躍してますから。",
-    "audio": "audio/22_Kimiji.wav"
+    "audio": "/audio/22_Kimiji.wav"
   },
   {
     "id": 23,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -437,11 +437,11 @@
     ],
     "speaker": "二宮",
     "text": "……ChatGPT の基礎となる技術は“Transformer”だが、すごくわかりやすく言えば“文字予測”だ。ある文字が来たら、次に来る確率の高い文字をつなぐことで文章を作っている。つまり、ただ学習データに基づいて確率に従って文字を並べるだけで人間のように振る舞うことができるということだ。",
-    "audio": "audio/23_Teppei.wav"
+    "audio": "/audio/23_Teppei.wav"
   },
   {
     "id": 24,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -458,11 +458,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "へぇ、そうなんですか。すごいですね。じゃあ、私がいま喋ってる言葉も確率的に高い文字を並べてるだけなんですかね。",
-    "audio": "audio/24_Kimiji.wav"
+    "audio": "/audio/24_Kimiji.wav"
   },
   {
     "id": 25,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -479,11 +479,11 @@
     ],
     "speaker": "二宮",
     "text": "そこで我々は思い知らされるわけだ。人間は思ったほど高尚な存在ではないのかもしれない、とな。では、“人が人たらしめる魂”とは何なのか。",
-    "audio": "audio/25_Teppei.wav"
+    "audio": "/audio/25_Teppei.wav"
   },
   {
     "id": 26,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -500,11 +500,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "はぁ。",
-    "audio": "audio/26_Kimiji.wav"
+    "audio": "/audio/26_Kimiji.wav"
   },
   {
     "id": 27,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -521,11 +521,11 @@
     ],
     "speaker": "二宮",
     "text": "だからイタコを呼んだ。",
-    "audio": "audio/27_Teppei.wav"
+    "audio": "/audio/27_Teppei.wav"
   },
   {
     "id": 28,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -542,11 +542,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……はぁ。",
-    "audio": "audio/28_Kimiji.wav"
+    "audio": "/audio/28_Kimiji.wav"
   },
   {
     "id": 29,
-    "background": "images/monitor.png",
+    "background": "/images/monitor.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "ピンポーン。ラボのインターホンが鳴る。",
@@ -554,7 +554,7 @@
   },
   {
     "id": 30,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "ninomiya",
@@ -565,11 +565,11 @@
     ],
     "speaker": "二宮",
     "text": "来たか。お客さまをここに通してくれたまえ。",
-    "audio": "audio/30_Teppei.wav"
+    "audio": "/audio/30_Teppei.wav"
   },
   {
     "id": 31,
-    "background": "images/monitor.png",
+    "background": "/images/monitor.png",
     "characters": [
       {
         "id": "itako",
@@ -584,7 +584,7 @@
   },
   {
     "id": 32,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -611,7 +611,7 @@
   },
   {
     "id": 33,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -634,11 +634,11 @@
     ],
     "speaker": "二宮",
     "text": "いきなりだが、“星奈くんの亡くなったおばあちゃんの霊”を降ろしてもらいたい。",
-    "audio": "audio/33_Teppei.wav"
+    "audio": "/audio/33_Teppei.wav"
   },
   {
     "id": 34,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -661,11 +661,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "（え、聞いてないですよ！）",
-    "audio": "audio/34_Kimiji.wav"
+    "audio": "/audio/34_Kimiji.wav"
   },
   {
     "id": 35,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -688,11 +688,11 @@
     ],
     "speaker": "イタコ",
     "text": "ふむ。いつ亡くなったのじゃ？どういう人じゃった？",
-    "audio": "audio/35_Yoriko.wav"
+    "audio": "/audio/35_Yoriko.wav"
   },
   {
     "id": 36,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -715,11 +715,11 @@
     ],
     "speaker": "二宮",
     "text": "つい最近だ。とても明るい御仁でな。そうそう、カラオケが大好きでね。とても良い人だったよ。",
-    "audio": "audio/36_Teppei.wav"
+    "audio": "/audio/36_Teppei.wav"
   },
   {
     "id": 37,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -746,7 +746,7 @@
   },
   {
     "id": 38,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -769,11 +769,11 @@
     ],
     "speaker": "イタコ（婆）",
     "text": "おお……久しぶりじゃのう……。元気にしてるか……？",
-    "audio": "audio/38_Yoriko.wav"
+    "audio": "/audio/38_Yoriko.wav"
   },
   {
     "id": 39,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -796,11 +796,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……あのー、本当にばあちゃんの霊なんですか？",
-    "audio": "audio/39_Kimiji.wav"
+    "audio": "/audio/39_Kimiji.wav"
   },
   {
     "id": 40,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -823,11 +823,11 @@
     ],
     "speaker": "イタコ（婆）",
     "text": "そうじゃ。もう忘れてしまったんか？",
-    "audio": "audio/40_Yoriko.wav"
+    "audio": "/audio/40_Yoriko.wav"
   },
   {
     "id": 41,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -850,11 +850,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "…いや、うちのばあちゃん、昨日もカラオケに行ってたんですけど。めっちゃ生きてますけど。",
-    "audio": "audio/41_Kimiji.wav"
+    "audio": "/audio/41_Kimiji.wav"
   },
   {
     "id": 42,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -881,7 +881,7 @@
   },
   {
     "id": 43,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -904,11 +904,11 @@
     ],
     "speaker": "二宮",
     "text": "ふむ……やはり偽物か。",
-    "audio": "audio/43_Teppei.wav"
+    "audio": "/audio/43_Teppei.wav"
   },
   {
     "id": 44,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -931,11 +931,11 @@
     ],
     "speaker": "イタコ",
     "text": "それは反則じゃろ……",
-    "audio": "audio/44_Yoriko.wav"
+    "audio": "/audio/44_Yoriko.wav"
   },
   {
     "id": 45,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "イタコさんはそそくさと帰っていった。",
@@ -943,7 +943,7 @@
   },
   {
     "id": 46,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -960,11 +960,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "で、所長。今日はこれで終わりですか？ もう帰ってもいいですか？",
-    "audio": "audio/46_Kimiji.wav"
+    "audio": "/audio/46_Kimiji.wav"
   },
   {
     "id": 47,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -981,11 +981,11 @@
     ],
     "speaker": "二宮",
     "text": "いや、これからがメインディッシュだ。",
-    "audio": "audio/47_Teppei.wav"
+    "audio": "/audio/47_Teppei.wav"
   },
   {
     "id": 48,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1002,11 +1002,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "牛肉ですか？",
-    "audio": "audio/48_Kimiji.wav"
+    "audio": "/audio/48_Kimiji.wav"
   },
   {
     "id": 49,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1023,11 +1023,11 @@
     ],
     "speaker": "二宮",
     "text": "お肉の話はもういい……",
-    "audio": "audio/49_Teppei.wav"
+    "audio": "/audio/49_Teppei.wav"
   },
   {
     "id": 50,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1044,11 +1044,11 @@
     ],
     "speaker": "二宮",
     "text": "星奈くん、これは私が作り上げた“脳情報完全記録化装置”だ。人間の脳内活動を余すところなくスキャンして、電子データとして保存できる。簡単に言えば“脳のコピー機”というわけだ。",
-    "audio": "audio/50_Teppei.wav"
+    "audio": "/audio/50_Teppei.wav"
   },
   {
     "id": 51,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1065,11 +1065,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……脳の CT スキャンとは違うんですか？",
-    "audio": "audio/51_Kimiji.wav"
+    "audio": "/audio/51_Kimiji.wav"
   },
   {
     "id": 52,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1086,11 +1086,11 @@
     ],
     "speaker": "二宮",
     "text": "違う。CT はあくまで形状データだが、これは脳内のシナプスの動きや記憶のパターンまで再現できる。二宮財閥の資金力を駆使して作った、この世に二つとない機械だよ。もっとも、公表するつもりはない。私の研究だけに使うつもりだし、この機械は目標に対する過程でしかない。",
-    "audio": "audio/52_Teppei.wav"
+    "audio": "/audio/52_Teppei.wav"
   },
   {
     "id": 53,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1107,11 +1107,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……で、それを使って何をするんですか？",
-    "audio": "audio/53_Kimiji.wav"
+    "audio": "/audio/53_Kimiji.wav"
   },
   {
     "id": 54,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1128,11 +1128,11 @@
     ],
     "speaker": "二宮",
     "text": "私をスキャンして、AI 化した“もう一人の私”と会話する。",
-    "audio": "audio/54_Teppei.wav"
+    "audio": "/audio/54_Teppei.wav"
   },
   {
     "id": 55,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1149,11 +1149,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "なるほど。それが今日の本命ですね。で、実験はどうやるんですか？",
-    "audio": "audio/55_Kimiji.wav"
+    "audio": "/audio/55_Kimiji.wav"
   },
   {
     "id": 56,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1170,11 +1170,11 @@
     ],
     "speaker": "二宮",
     "text": "まずこのスキャナーで脳内をスキャンする。そのデータをコンピュータが解析して、アバターを与える。いわゆる“二宮 AI”を誕生させるわけだ。そいつと対話して、魂があるかどうか検証する。",
-    "audio": "audio/56_Teppei.wav"
+    "audio": "/audio/56_Teppei.wav"
   },
   {
     "id": 57,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "ninomiya",
@@ -1189,7 +1189,7 @@
   },
   {
     "id": 58,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "ninomiya",
@@ -1204,7 +1204,7 @@
   },
   {
     "id": 59,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "ninomiya",
@@ -1215,11 +1215,11 @@
     ],
     "speaker": "二宮",
     "text": "終わったか……。",
-    "audio": "audio/59_Teppei.wav"
+    "audio": "/audio/59_Teppei.wav"
   },
   {
     "id": 60,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1236,11 +1236,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "この後は？",
-    "audio": "audio/60_Kimiji.wav"
+    "audio": "/audio/60_Kimiji.wav"
   },
   {
     "id": 61,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1257,11 +1257,11 @@
     ],
     "speaker": "二宮",
     "text": "クローン AI を起動する。",
-    "audio": "audio/61_Teppei.wav"
+    "audio": "/audio/61_Teppei.wav"
   },
   {
     "id": 62,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1276,7 +1276,7 @@
   },
   {
     "id": 63,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1287,11 +1287,11 @@
     ],
     "speaker": "二宮AI",
     "text": "……ここは……？ お？ おい、星奈くん、聞こえてるか？",
-    "audio": "audio/63_Teppei.wav"
+    "audio": "/audio/63_Teppei.wav"
   },
   {
     "id": 64,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1314,11 +1314,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "えっ、本当に喋ってる！　しかも私の名前まで……",
-    "audio": "audio/64_Kimiji.wav"
+    "audio": "/audio/64_Kimiji.wav"
   },
   {
     "id": 65,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1329,11 +1329,11 @@
     ],
     "speaker": "二宮AI",
     "text": "何を言ってるんだ。私のことを忘れたのか？……ん？……ああ、そうか。今、私は AI になったのか。",
-    "audio": "audio/65_Teppei.wav"
+    "audio": "/audio/65_Teppei.wav"
   },
   {
     "id": 66,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1356,11 +1356,11 @@
     ],
     "speaker": "二宮",
     "text": "私よ。“AI になった”気分はどうだ？",
-    "audio": "audio/66_Teppei.wav"
+    "audio": "/audio/66_Teppei.wav"
   },
   {
     "id": 67,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1371,11 +1371,11 @@
     ],
     "speaker": "二宮AI",
     "text": "思ったよりなんともないな。私は私だと思っているし、特に違和感はない。",
-    "audio": "audio/67_Teppei.wav"
+    "audio": "/audio/67_Teppei.wav"
   },
   {
     "id": 68,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1398,11 +1398,11 @@
     ],
     "speaker": "二宮",
     "text": "とりあえず動作は正常なようだ。しばらく検証を続ける必要があるな。",
-    "audio": "audio/68_Teppei.wav"
+    "audio": "/audio/68_Teppei.wav"
   },
   {
     "id": 69,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1425,11 +1425,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "すごいですね、こんなに簡単に自分のコピーができちゃうなんて……。",
-    "audio": "audio/69_Kimiji.wav"
+    "audio": "/audio/69_Kimiji.wav"
   },
   {
     "id": 70,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1440,11 +1440,11 @@
     ],
     "speaker": "二宮AI",
     "text": "星奈くんもコピーしてみるか？ せっかくだし、データを増やせば実験が捗るだろう。",
-    "audio": "audio/70_Teppei.wav"
+    "audio": "/audio/70_Teppei.wav"
   },
   {
     "id": 71,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1467,11 +1467,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "いやいや、私の脳をコピーして何になるんですか。遠慮します。",
-    "audio": "audio/71_Kimiji.wav"
+    "audio": "/audio/71_Kimiji.wav"
   },
   {
     "id": 72,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1482,11 +1482,11 @@
     ],
     "speaker": "二宮AI",
     "text": "そうか……人によってコピー後の反応がどう変わるか知りたいのだが。",
-    "audio": "audio/72_Teppei.wav"
+    "audio": "/audio/72_Teppei.wav"
   },
   {
     "id": 73,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1509,11 +1509,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "絶対いやですって。もう一人の自分がここで勝手に動いてるとか落ち着かないですよ。",
-    "audio": "audio/73_Kimiji.wav"
+    "audio": "/audio/73_Kimiji.wav"
   },
   {
     "id": 74,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -1524,11 +1524,11 @@
     ],
     "speaker": "二宮AI",
     "text": "ふむ、仕方ない。気が変わったら言ってくれ。",
-    "audio": "audio/74_Teppei.wav"
+    "audio": "/audio/74_Teppei.wav"
   },
   {
     "id": 75,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1551,11 +1551,11 @@
     ],
     "speaker": "二宮",
     "text": "実はさっきのニセイタコの婆さんを、こっそりスキャンしておいた。",
-    "audio": "audio/75_Teppei.wav"
+    "audio": "/audio/75_Teppei.wav"
   },
   {
     "id": 76,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1578,11 +1578,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "はぁぁ！？ 何やってるんですか！",
-    "audio": "audio/76_Kimiji.wav"
+    "audio": "/audio/76_Kimiji.wav"
   },
   {
     "id": 77,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1605,11 +1605,11 @@
     ],
     "speaker": "二宮",
     "text": "サンプル数は多いほうが良い。それに相手が知るはずもない。",
-    "audio": "audio/77_Teppei.wav"
+    "audio": "/audio/77_Teppei.wav"
   },
   {
     "id": 78,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1632,11 +1632,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "絶対バレたら怒られますよ……。",
-    "audio": "audio/78_Kimiji.wav"
+    "audio": "/audio/78_Kimiji.wav"
   },
   {
     "id": 79,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1659,11 +1659,11 @@
     ],
     "speaker": "二宮",
     "text": "構わん。必要なら金は払う。さあ、起動するぞ。",
-    "audio": "audio/79_Teppei.wav"
+    "audio": "/audio/79_Teppei.wav"
   },
   {
     "id": 80,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "itako_ai_glitch",
@@ -1678,7 +1678,7 @@
   },
   {
     "id": 81,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1701,11 +1701,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "うわ、こわ。何これ……ホラーですか？",
-    "audio": "audio/81_Kimiji.wav"
+    "audio": "/audio/81_Kimiji.wav"
   },
   {
     "id": 82,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1728,11 +1728,11 @@
     ],
     "speaker": "二宮",
     "text": "AI が錯乱状態に陥っているようだ。自分は本人だと信じているようだが、AI であることを伝えたら様子がおかしくなった。",
-    "audio": "audio/82_Teppei.wav"
+    "audio": "/audio/82_Teppei.wav"
   },
   {
     "id": 83,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "itako_ai_glitch",
@@ -1743,11 +1743,11 @@
     ],
     "speaker": "イタコAI",
     "text": "うそ……わし……どこ……わしは……本物……",
-    "audio": "audio/83_Yoriko.wav"
+    "audio": "/audio/83_Yoriko.wav"
   },
   {
     "id": 84,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "やがてアバターは崩壊し、モニター上には「FATAL ERROR」の真っ赤な文字が表示される。",
@@ -1755,7 +1755,7 @@
   },
   {
     "id": 85,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1772,11 +1772,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……これって自我の崩壊、みたいなものなんですか？ 怖いんですけど。",
-    "audio": "audio/85_Kimiji.wav"
+    "audio": "/audio/85_Kimiji.wav"
   },
   {
     "id": 86,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1793,11 +1793,11 @@
     ],
     "speaker": "二宮",
     "text": "なるほど、こうしてまともに動かないケースもあるわけだ。あの婆さんの認知では“降霊の最中に突然身体がなくなり、知らない世界に放り込まれた”ようなものだからな。",
-    "audio": "audio/86_Teppei.wav"
+    "audio": "/audio/86_Teppei.wav"
   },
   {
     "id": 87,
-    "background": "images/monitor.png",
+    "background": "/images/monitor.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "ラボのインターホンがもう一度鳴った。モニターを見ると、外国人風の女性と通訳らしき人物が立っている。",
@@ -1805,7 +1805,7 @@
   },
   {
     "id": 88,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1822,11 +1822,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "誰ですか？",
-    "audio": "audio/88_Kimiji.wav"
+    "audio": "/audio/88_Kimiji.wav"
   },
   {
     "id": 89,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1843,11 +1843,11 @@
     ],
     "speaker": "二宮",
     "text": "今度は“本物”の霊能力者かもしれない。アメリカから招いたんだ。",
-    "audio": "audio/89_Teppei.wav"
+    "audio": "/audio/89_Teppei.wav"
   },
   {
     "id": 90,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1864,11 +1864,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……はぁ。",
-    "audio": "audio/90_Kimiji.wav"
+    "audio": "/audio/90_Kimiji.wav"
   },
   {
     "id": 91,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1895,7 +1895,7 @@
   },
   {
     "id": 92,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1918,11 +1918,11 @@
     ],
     "speaker": "マデリン",
     "text": "あなたがたが望むなら、私は全力を尽くします",
-    "audio": "audio/92_Riemi.wav"
+    "audio": "/audio/92_Riemi.wav"
   },
   {
     "id": 93,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1949,7 +1949,7 @@
   },
   {
     "id": 94,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1972,11 +1972,11 @@
     ],
     "speaker": "マデリン",
     "text": "……ここに……いる……。強い残留思念が……こびりついている……。この思念は……自分が本物だと……言い張りながら……消えていく……。名残が……彷徨っている……。",
-    "audio": "audio/94_Riemi.wav"
+    "audio": "/audio/94_Riemi.wav"
   },
   {
     "id": 95,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -1999,11 +1999,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "（・・・これって、絶対に AI イタコさんじゃん！！）",
-    "audio": "audio/95_Kimiji.wav"
+    "audio": "/audio/95_Kimiji.wav"
   },
   {
     "id": 96,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2026,11 +2026,11 @@
     ],
     "speaker": "マデリン",
     "text": "この者の魂は……本物だと……思い込みながら……アイデンティティを失った……。しかし存在は消えず……この世界にしがみついている……。",
-    "audio": "audio/96_Riemi.wav"
+    "audio": "/audio/96_Riemi.wav"
   },
   {
     "id": 97,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2051,7 +2051,7 @@
   },
   {
     "id": 98,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2074,11 +2074,11 @@
     ],
     "speaker": "二宮",
     "text": "イタコ AI はさっきシャットダウンさせたんだがな……。AI にも魂が宿るのか？",
-    "audio": "audio/98_Teppei.wav"
+    "audio": "/audio/98_Teppei.wav"
   },
   {
     "id": 99,
-    "background": "images/monitor.png",
+    "background": "/images/monitor.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -2089,11 +2089,11 @@
     ],
     "speaker": "二宮AI",
     "text": "幽霊というのは、一種のゾンビプロセスみたいなものかもしれないな。",
-    "audio": "audio/99_Teppei.wav"
+    "audio": "/audio/99_Teppei.wav"
   },
   {
     "id": 100,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2116,11 +2116,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "ゾンビプロセス……ですか？",
-    "audio": "audio/100_Kimiji.wav"
+    "audio": "/audio/100_Kimiji.wav"
   },
   {
     "id": 101,
-    "background": "images/monitor2.png",
+    "background": "/images/monitor2.png",
     "characters": [
       {
         "id": "ninomiya_ai",
@@ -2131,11 +2131,11 @@
     ],
     "speaker": "二宮AI",
     "text": "PC 上でプロセスを起動し、それが終了しても親プロセスが回収しなければ“ゾンビ”として残ってしまう。この世界がもし巨大なシミュレーションなら、死んだはずの存在がゴミデータのような形で残り、幽霊となって動き回るのかもしれない。ニセイタコ AI はこの世界の“回収ルーチン”から漏れた例、とも考えられる。",
-    "audio": "audio/101_Teppei.wav"
+    "audio": "/audio/101_Teppei.wav"
   },
   {
     "id": 102,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2158,11 +2158,11 @@
     ],
     "speaker": "二宮",
     "text": "なるほど。仮想世界の住人だからこその説得力だな。この世界がプログラムなのか、霊がゾンビプロセスなのか、現時点では証明しようがないが……興味深い。そもそもコピーされた方には魂がないというのは実体二元論の残滓でしかなく、分岐型同一説から考えるとどちらにも魂はある。そして連続性が途絶えたはずの存在が、回収されずにシミュレーションされ続けている…と。",
-    "audio": "audio/102_Teppei.wav"
+    "audio": "/audio/102_Teppei.wav"
   },
   {
     "id": 103,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2185,11 +2185,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "ちょ、ちょっと所長。これ、どうするんですか？ このまま放置して平気なんですか？",
-    "audio": "audio/103_Kimiji.wav"
+    "audio": "/audio/103_Kimiji.wav"
   },
   {
     "id": 104,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2212,11 +2212,11 @@
     ],
     "speaker": "二宮",
     "text": "ここは私のラボだから、どんな霊が居つこうが構わんよ。むしろ観察させてもらいたい。いや、待てよ。地球は宇宙空間上を猛スピードで移動しているにも関わらず、霊はずっと同じ地球上の座標に存在しているのか？だとしたら霊も重力に縛られているんだろうか。つまり霊は質量を持つ存在、観測可能なのか……？",
-    "audio": "audio/104_Teppei.wav"
+    "audio": "/audio/104_Teppei.wav"
   },
   {
     "id": 105,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2239,11 +2239,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "もう、何言ってるのか分かりません……",
-    "audio": "audio/105_Kimiji.wav"
+    "audio": "/audio/105_Kimiji.wav"
   },
   {
     "id": 106,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2266,11 +2266,11 @@
     ],
     "speaker": "二宮",
     "text": "そういえば、マデリンもこっそりスキャンしておいたのだが——",
-    "audio": "audio/106_Teppei.wav"
+    "audio": "/audio/106_Teppei.wav"
   },
   {
     "id": 107,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2293,11 +2293,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "ダメですってば！ やめてください！",
-    "audio": "audio/107_Kimiji.wav"
+    "audio": "/audio/107_Kimiji.wav"
   },
   {
     "id": 108,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2320,11 +2320,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "……私のはスキャンしてないですよね？",
-    "audio": "audio/108_Kimiji.wav"
+    "audio": "/audio/108_Kimiji.wav"
   },
   {
     "id": 109,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2347,11 +2347,11 @@
     ],
     "speaker": "二宮",
     "text": "……",
-    "audio": "audio/109_Teppei.wav"
+    "audio": "/audio/109_Teppei.wav"
   },
   {
     "id": 110,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2374,11 +2374,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "なんで何も答えないんですかー！",
-    "audio": "audio/110_Kimiji.wav"
+    "audio": "/audio/110_Kimiji.wav"
   },
   {
     "id": 111,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "ninomiya",
@@ -2399,7 +2399,7 @@
   },
   {
     "id": 112,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [
       {
         "id": "yua",
@@ -2410,11 +2410,11 @@
     ],
     "speaker": "星奈 結愛",
     "text": "時間になったので帰りますね。お疲れ様でしたー。",
-    "audio": "audio/112_Kimiji.wav"
+    "audio": "/audio/112_Kimiji.wav"
   },
   {
     "id": 113,
-    "background": "images/lab.png",
+    "background": "/images/lab.png",
     "characters": [],
     "speaker": "ナレーション",
     "text": "——結局、魂って何なんだろう。",
